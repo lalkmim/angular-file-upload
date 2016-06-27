@@ -5,7 +5,7 @@ app.directive("prsFileUpload", function() {
     return {
         restrict: 'E',
         
-        templateUrl: '../tpl/fileUpload.tpl',
+        templateUrl: 'tpl/fileUpload.tpl',
         
         replace: 'true',
         
